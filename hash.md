@@ -16,6 +16,7 @@ SHA-256(﻿DzMHnXXetrfKz3.pdf﻿) = cd45f3afe6bc668e6f8cf19cc8a962708f9c11e31de3
 
 SHA-256(﻿aeZ7Vfyv6Ur56q.pdf﻿) = edaa230375df95e53def846fdb369a404697686c47b82df7eaff6318097b47e1
 
+SHA256 (20241113.txt) = c7dac6a41105eaa209cad5e591e102089cd07a3b42d66a8c6506b5ad497a3ae0
 
 内部排查发现存在越权漏洞的API：
 
